@@ -5,7 +5,7 @@ repositorio de scripts interesantes
 
 1.- Descripción del proyecto. 
 
-2.- Nombre del script.
+2.- Script Interesantes.
 
 ## Referencias:
 
