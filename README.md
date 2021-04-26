@@ -9,3 +9,4 @@ repositorio de scripts interesantes
 
 ## Referencias:
 
+He usado ejemplos y actividades de clases. Y modificarlo de manera que se entienda 
